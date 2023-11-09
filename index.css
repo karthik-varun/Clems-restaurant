@@ -385,6 +385,7 @@ body{
     }
     .Navcontent{
         width: 100%;
+        font-size: small;
     }
     .titles{
         font-size: small;
@@ -396,7 +397,10 @@ body{
     .cards{
         display: flex;
         flex-direction: column;
-        height: 80vh;
+        height: 150vh;
+    }
+    .mid2{
+        padding-top: 200px;
     }
     .pic2{
         display: flex;
@@ -410,6 +414,9 @@ body{
     .txt3 button{
         height: 10%;
         width: 70px;
+    }
+    .mid4{
+        margin-top: 40px;
     }
     .pic4{
         display: flex;
@@ -425,13 +432,14 @@ body{
     .txt5{
         font-size: small;
         gap: 10px;
-        
+        margin-top: 70px;
         width: 90%;
     }
     .footertxt{
         display: flex;
         flex-direction: column;
-        height:100vh ;
+        height:170vh ;
+        margin-top: 60px;
     }
     .ftxt1{
         margin-top: 20px;
